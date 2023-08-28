@@ -7,6 +7,8 @@
 - 英语例词
 - 中文近似发音
 
+注：中文近似发音仅供非专业参考, 不保证准确与严谨性.
+
 Note to translator: Please provide example words in your language for each English phoneme. Highlight which part of the word has the sound using bold text.
 
 | IPA  | 英语例词 | 中文近似发音 |
